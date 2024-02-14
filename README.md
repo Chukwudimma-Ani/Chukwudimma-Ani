@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D4E22AQEN5sh8m3v02Q/feedshare-shrink_800/0/1707910157858?e=1710979200&v=beta&t=Oa8UkMWTIEVyv0U_K8BqS873hf-ZVo1HfcdbhJAcd-Y)
+![I am GitHub Readme Generator's creator](https://github.com/Chukwudimma-Ani/Chukwudimma-Ani/blob/master/main.png)
 #  Chukwudimma Ani
  I'm a web developer from Nigeria.I really enjoy travelling and learning about people and framework like React as well building API.i'm a full stack Web developer.you can check me out on linkedin
 
