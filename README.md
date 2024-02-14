@@ -6,4 +6,4 @@ say hi on linkedin
 [![Youtube account](https://github.com/Chukwudimma-Ani/Chukwudimma-Ani/assets/152604214/3894596f-83bb-4880-9f9b-7b02802a81be)](http://www.youtube.com/@anidimma6473)
 
 
-[![Chukwudimma's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Chukwudimma-Ani/github-readme-stats)
+[![Chukwudimma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chukwudimma-Ani)](https://github.com/Chukwudimma-Ani/github-readme-stats)
