@@ -3,7 +3,7 @@
  I'm a web developer from Nigeria.I really enjoy travelling and learning about people and framework like React as well building API.i'm a full stack Web developer.you can check me out on linkedin
 
 ### Skills and Experience
-* [![](https://github.com/Chukwudimma-Ani/Chukwudimma-Ani/assets/152604214/76838d81-adb3-4e85-90e4-291e430ccf9b)React
+*;-) React
 
 * 
 
