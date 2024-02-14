@@ -1,6 +1,6 @@
 ![I am GitHub Readme Generator's creator](main.png)
 #  Chukwudimma Ani
- I'm a web developer from Nigeria.I really enjoy travelling and learning about people and framework like React as well building API.i'm a full stack Web developer.you can check me out on linkedin
+ I'm a web developer,I really enjoy travelling and learning about people and framework like React as well building API.i'm a full stack Web developer.you can check me out on linkedin
 
 # Skills and Experience
 * ✡️ React
