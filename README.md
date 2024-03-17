@@ -9,7 +9,7 @@
 
  
 ## Example of works
-<img src ="It’s.GIF" width ="200" height ="500" />    <img src ="GMP_U2F2ZUdIMDE= 2.GIF" width ="200" />      <img src ="Light mode .GIF" width ="200" />
+<img src ="It’s.GIF" width ="200" height ="400" />    <img src ="GMP_U2F2ZUdIMDE= 2.GIF" width ="200" />      <img src ="Light mode .GIF" width ="200" />
 
 
 
