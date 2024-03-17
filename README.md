@@ -8,7 +8,8 @@
 * 🖥️ JS / HTML / CSS
 
  
-
+## Example of works
+<img src ="GMP_U2F2ZUdIMDE=.gif" width ="256"/>
 
 ## - 📫 How to reach me: aniChukwudimma@gmail.com 
 
