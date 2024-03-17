@@ -9,7 +9,7 @@
 
  
 ## Example of works
-<img src ="GMP_U2F2ZUdIMDE=.gif" width ="200" height ="100"/>
+<img src ="GMP_U2F2ZUdIMDE=.gif" width ="200" height ="200"/>
 
 ## - 📫 How to reach me: aniChukwudimma@gmail.com 
 
