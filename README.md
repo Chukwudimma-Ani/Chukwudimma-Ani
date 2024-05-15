@@ -1,5 +1,7 @@
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm  Chukwudimma Ani</h1>
+
 ![I am GitHub Readme Generator's creator](main.png)
-#  Chukwudimma Ani
+
  I'm a web developer,I really enjoy travelling and learning about people and framework like React as well building API.i'm a full stack Web developer.you can check me out on linkedin
 
 # Skills and Experience
