@@ -4,6 +4,27 @@
 
  I'm a web developer,I really enjoy travelling and learning about people and framework like React as well building API.i'm a full stack Web developer.you can check me out on linkedin
 
+## 👨🏻‍💻 About Me:
+
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+
+- 🙋‍♂️ All about me is at **[My Website]()**
+
+- 🔭 I’m currently working on `Something Intresting`.
+
+- 🌱 I’m currently learning `React.js`
+
+- 👯 I’m looking to collaborate for `backend Projects`
+
+- 💬 Ask me about anything, Except Maths & geography :sweat_smile:
+
+- 👨‍💻 Life Hack: Learn new tech :fire: and always have a secret stash of.... snack what did you think i was going to say :tada:
+
+- ⚡ Fun fact: I waste most of my time watching reality tv
+
+
+
+
 # Skills and Experience
 * ✡️ React
 * 📱 React Native
