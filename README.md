@@ -34,9 +34,12 @@
 ## Example of works
 <a href =" https://chukwudimma-ani.github.io/Remake-of-NYSC-homePage/" target ="_blank"><img src ="Gray Beauty TikTok Video.gif" width ="200" height ="" /> </a>  <a href ="https://github.com/Chukwudimma-Ani/Ravens-game" target ="_blank"><img src ="GMP_U2F2ZUdIMDE= 2.GIF" width ="200" />  </a>    <a href ="https://github.com/Chukwudimma-Ani/Ravens-game" target ="_blank"><img src ="Light mode .GIF" width ="200" />  </a> 
 
+## ❤️ Let's get connected:
+
+<p><a href="#" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Soumyajit.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="#" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="#" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="#" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> <a href="#"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+</p>
 
 
-## - 📫 How to reach me: aniChukwudimma@gmail.com 
 
 
 ### [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Chukwudimma-Ani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ani-chukwudimma-675395213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/anidimma6473)  
