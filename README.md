@@ -43,7 +43,9 @@
 
  
 ## Example of works
-<a href =" https://chukwudimma-ani.github.io/Remake-of-NYSC-homePage/" target ="_blank"><img src ="Gray Beauty TikTok Video.gif" width ="200" height ="" /> </a>  <a href ="https://github.com/Chukwudimma-Ani/Ravens-game" target ="_blank"><img src ="GMP_U2F2ZUdIMDE= 2.GIF" width ="200" />  </a>    <a href ="https://github.com/Chukwudimma-Ani/Ravens-game" target ="_blank"><img src ="Light mode .GIF" width ="200" />  </a> 
+<a href =" https://chukwudimma-ani.github.io/Remake-of-NYSC-homePage/" target ="_blank"><img src ="desktop___web_nysc-removebg-preview.png" width ="" height ="" /> </a> 
+<a href ="https://chukwudimma.vercel.app/" target ="_blank"><img src ="readmeImg (2).png" width ="" />  </a> 
+
 
 ## ❤️ Let's get connected:
 
