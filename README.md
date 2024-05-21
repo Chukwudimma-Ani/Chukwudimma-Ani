@@ -43,8 +43,7 @@
 
  
 ## Example of works
-<a href =" https://chukwudimma-ani.github.io/Remake-of-NYSC-homePage/" target ="_blank"><img src ="desktop___web_nysc-removebg-preview.png" width ="" height ="" /> </a> 
-<a href ="https://chukwudimma.vercel.app/" target ="_blank"><img src ="readmeImg (2).png" width ="" />  </a> 
+<a href =" https://chukwudimma-ani.github.io/Remake-of-NYSC-homePage/" target ="_blank"><img src ="desktop___web_nysc-removebg-preview.png" width ="" height ="" /> </a> <a href ="https://chukwudimma.vercel.app/" target ="_blank"><img src ="readmeImg (2).png" width ="" />  </a> 
 
 
 ## ❤️ Let's get connected:
